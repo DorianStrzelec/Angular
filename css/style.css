@@ -1,0 +1,61 @@
+body {
+	font-size: 18px;
+	font-family: Roboto, Arial, Halvetica, sans-serif;
+	color: #ffffff;
+	background: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Tajawal, Arial, Halvetica, sans-serif;
+}
+
+.navbar-default, .nav, li, a, .glyphicon {
+	color: #33ff33;
+}
+
+
+.section-color {
+	color: #33ff33;
+}
+
+.btn, .btn-primary {
+	border: none;
+	background-color: black;
+	border-radius: 10%;
+	margin-left: 20px;
+}
+
+.navbar-brand img {
+	width: 100px;
+	height: 70px;
+}
+
+.carousel img {
+	width: 75%;
+	height: auto;
+}
+
+.angular-galeria img {
+	width: 50%;
+	height: auto;
+}
+p {color:lightblue}
+
+.modal-title{color: red;}
+.modal-body{color: #66FF66;}
+
+button, input, optgroup, select, textarea {
+    color: black;
+}
+
+.jumbotron h1 {
+    color: black;
+}
+
+p {
+    color: #00bdfb;
+}
+
+#gallery{
+	padding-top: 30px;
+}
